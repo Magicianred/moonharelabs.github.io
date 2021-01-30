@@ -1,5 +1,6 @@
 ---
 layout: home
+title: ""
 ---
 
 # Build fast, responsive sites with MoonHare.CSS
